@@ -40,4 +40,4 @@ export const mockPositions: Position[] = [
 ];
 
 
-//강강묵 바보
+//강강묵 바보 <- 반사
