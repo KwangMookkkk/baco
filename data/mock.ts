@@ -38,3 +38,6 @@ export const mockPositions: Position[] = [
     valueUsd: 2500
   },
 ];
+
+
+//강강묵 바보
